@@ -51,18 +51,19 @@ back.addEventListener('click',()=>{
 
 const showbtn=document.querySelector('.calcbtn')
 const box1=document.querySelector('.container')
-let check=0;
-showbtn.addEventListener('click',()=>{
+// let check=0;
+// showbtn.addEventListener('click',()=>{
    
-  box1.classList.toggle('show')
+//   box1.classList.toggle('show')
    
   
-  if(check==0){
-    showbtn.innerHTML='Hide'
-    check=1
-  } else{
-    showbtn.innerHTML='Display'
-    check=0
-  }
+//   if(check==0){
+//     showbtn.innerHTML='Hide'
+//     check=1
+//   } else{
+//     showbtn.innerHTML='Display'
+//     check=0
+//   }
 
-})
+// })
+
